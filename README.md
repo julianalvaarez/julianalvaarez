@@ -7,7 +7,7 @@
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
 
 ### Technologies
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 <!--
 **julianalvaarez/julianalvaarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
