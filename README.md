@@ -1,7 +1,7 @@
 <h1>Hello! I'm Julian Alvarez 👋</h1>
-<h2>Frontend Developer</h2>
+<h2>Frontend Developer ⚡r</h2>
 
-### About Me
+### About Me 💬
 - I'm 18 years old and I'm from Buenos Aires, Argentina.
 - I am a Frontend Developer
 - I am a self-taught and highly creative individual who seeks to learn and improve every day.
@@ -15,11 +15,8 @@
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=julianalvaarez&show_icons=true)
-<!--
-**julianalvaarez/julianalvaarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=julianalvaarez&show_icons=true) --!>
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
