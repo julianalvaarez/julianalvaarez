@@ -1,5 +1,5 @@
 <h1>Hello! I'm Julian Alvarez 👋</h1>
-<h2>Frontend Developer ⚡r</h2>
+<h2>Frontend Developer ⚡</h2>
 
 ### About Me 💬
 - I'm 18 years old and I'm from Buenos Aires, Argentina.
