@@ -1,5 +1,13 @@
-<h1>Hi there 👋</h1>
+<h1>Hello! I'm Julian Alvarez 👋</h1>
+<h2>Frontend Developer</h2>
 
+### About Me
+- I'm 18 years old and I'm from Buenos Aires, Argentina.
+- I am a Frontend Developer
+- I am a self-taught and highly creative individual who seeks to learn and improve every day.
+
+### Technologies
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 <!--
 **julianalvaarez/julianalvaarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
