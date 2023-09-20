@@ -14,6 +14,8 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=julianalvaarez&show icons=true)
 <!--
 **julianalvaarez/julianalvaarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
