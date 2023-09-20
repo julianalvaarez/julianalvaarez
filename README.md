@@ -13,7 +13,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
 <!--
 **julianalvaarez/julianalvaarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
