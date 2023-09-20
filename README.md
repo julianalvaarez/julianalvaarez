@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=TailwindCSS)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 <!--
 **julianalvaarez/julianalvaarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
