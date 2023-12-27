@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
