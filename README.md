@@ -1,5 +1,5 @@
 <h1>Hello! I'm Julian Alvarez 👋</h1>
-<h2>Frontend Developer ⚡</h2>
+<h2>Full Srack Developer ⚡</h2>
 
 ### About Me 💬
 - I'm 18 years old and I'm from Buenos Aires, Argentina.
@@ -15,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianalvaarez&label=Profile%20views&color=0e75b6&style=flat" alt="julianalvaarez" />
 
