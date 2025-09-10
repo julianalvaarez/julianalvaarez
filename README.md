@@ -15,7 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodeJS)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianalvaarez&label=Profile%20views&color=0e75b6&style=flat" alt="julianalvaarez" />
 
